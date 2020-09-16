@@ -12,7 +12,7 @@
             "value": "Private"
         },
         "imageName": {
-            "value": "containerregistrystorage01.azurecr.io/karthikreddy12345/dockercloud-hello-world:15"
+            "value": "containerregistrystorage01.azurecr.io/karthikreddy12345/dockercloud-hello-world:20"
         },
         "osType": {
             "value": "Linux"
@@ -30,10 +30,10 @@
             "value": "containerregistrystorage01.azurecr.io"
         },
         "imageUsername": {
-            "value": "containerregistrystorage01"
+            "value": "containerregistrystorage02"
         },
         "imagePassword": {
-            "value": "mif@123456"
+            "value": "Mif@123456"
         },
         "ipAddressType": {
             "value": "Public"
