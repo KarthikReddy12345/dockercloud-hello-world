@@ -27,10 +27,10 @@
             "value": "OnFailure"
         },
         "imageRegistryLoginServer": {
-            "value": "containerregistrystorage01.azurecr.io"
+            "value": "containerregistry012.azurecr.io"
         },
         "imageUsername": {
-            "value": "containerregistrystorage02"
+            "value": "containerregistry012"
         },
         "imagePassword": {
             "value": "cG6Z+oYML2lVqxymKGgCnymJ1nphU+vF"
