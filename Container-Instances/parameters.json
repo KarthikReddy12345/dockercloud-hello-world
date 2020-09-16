@@ -1,0 +1,50 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "containerName": {
+            "value": "docker-latest"
+        },
+        "location": {
+            "value": "eastus"
+        },
+        "imageType": {
+            "value": "Private"
+        },
+        "imageName": {
+            "value": "containerregistrystorage01.azurecr.io/karthikreddy12345/dockercloud-hello-world:15"
+        },
+        "osType": {
+            "value": "Linux"
+        },
+        "numberCpuCores": {
+            "value": "1"
+        },
+        "memory": {
+            "value": "1.5"
+        },
+        "restartPolicy": {
+            "value": "OnFailure"
+        },
+        "imageRegistryLoginServer": {
+            "value": "containerregistrystorage01.azurecr.io"
+        },
+        "imageUsername": {
+            "value": "containerregistrystorage01"
+        },
+        "imagePassword": {
+            "value": null
+        },
+        "ipAddressType": {
+            "value": "Public"
+        },
+        "ports": {
+            "value": [
+                {
+                    "port": "80",
+                    "protocol": "TCP"
+                }
+            ]
+        }
+    }
+}
