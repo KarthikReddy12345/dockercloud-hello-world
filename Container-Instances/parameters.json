@@ -33,7 +33,7 @@
             "value": "containerregistrystorage01"
         },
         "imagePassword": {
-            "value": null
+            "value": "mif@123456"
         },
         "ipAddressType": {
             "value": "Public"
