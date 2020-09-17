@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "containerName": {
-            "value": "containerregistrystorage01"
+            "value": "azurecontainerintances01"
         },
         "location": {
             "value": "eastus"
@@ -12,7 +12,7 @@
             "value": "Private"
         },
         "imageName": {
-            "value": "containerregistrystorage01.azurecr.io/karthikreddy12345/dockercloud-hello-world:21"
+            "value": "containerregistrystorage01.azurecr.io/karthikreddy12345/dockercloud-hello-world:20"
         },
         "osType": {
             "value": "Linux"
@@ -33,7 +33,7 @@
             "value": "containerregistrystorage01"
         },
         "imagePassword": {
-            "value": "X27OnNhBNwsuZY7Uu4brhgyCj7w2+cnQ"
+            "value": null
         },
         "ipAddressType": {
             "value": "Public"
