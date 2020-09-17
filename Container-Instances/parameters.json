@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "containerName": {
-            "value": "azurecontainerintances01"
+            "value": "azurecontainerintances02"
         },
         "location": {
             "value": "eastus"
@@ -12,7 +12,7 @@
             "value": "Private"
         },
         "imageName": {
-            "value": "containerregistrystorage01.azurecr.io/karthikreddy12345/dockercloud-hello-world:20"
+            "value": "containerregistrystorage01.azurecr.io/karthikreddy12345/dockercloud-hello-world:latest"
         },
         "osType": {
             "value": "Linux"
