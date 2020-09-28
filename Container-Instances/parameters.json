@@ -12,7 +12,7 @@
             "value": "Private"
         },
         "imageName": {
-            "value": "containerregistrystorage.azurecr.io/karthikreddy12345/dockercloud-hello-world"
+            "value": "containerregistrystorage.azurecr.io/karthikreddy12345/dockercloud-hello-world:latest"
         },
         "osType": {
             "value": "Linux"
